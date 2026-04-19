@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dc2f77d-018d-4d80-9108-9faac523fe4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ Python_Automation_Mastery_Automate Boring_Tasks_Like_Pro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deskstop_Auto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adv_path_lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/append_to_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/del_file_fol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_w.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line_by_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/move_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_opt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sel.py" afterDir="false" />
-    </list>
+    <list default="true" id="1dc2f77d-018d-4d80-9108-9faac523fe4a" name="Changes" comment="Add practice scripts and exercises for Python automation learning (Udemy course)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -56,45 +34,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Deskstop_Auto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adv_path_lib (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.append.executor&quot;: &quot;Run&quot;,
-    &quot;Python.append_to_file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arith_opt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.count_even.executor&quot;: &quot;Run&quot;,
-    &quot;Python.create.executor&quot;: &quot;Run&quot;,
-    &quot;Python.create_dir.executor&quot;: &quot;Run&quot;,
-    &quot;Python.del_file_fol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_info.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_op.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_operation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_opt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.line_by_line.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_dir.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.move_copy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.organize.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.pathlib.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read_opt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reading2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variable.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Deskstop_Auto.executor": "Run",
+    "Python.adv_path_lib (1).executor": "Run",
+    "Python.append.executor": "Run",
+    "Python.append_to_file.executor": "Run",
+    "Python.arith_opt.executor": "Run",
+    "Python.check.executor": "Run",
+    "Python.count_even.executor": "Run",
+    "Python.create.executor": "Run",
+    "Python.create_dir.executor": "Run",
+    "Python.del_file_fol.executor": "Run",
+    "Python.file_info.executor": "Run",
+    "Python.file_op.executor": "Run",
+    "Python.file_operation.executor": "Run",
+    "Python.file_opt.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.line_by_line.executor": "Run",
+    "Python.list_dir.executor": "Run",
+    "Python.loops.executor": "Run",
+    "Python.move_copy.executor": "Run",
+    "Python.organize.executor": "Debug",
+    "Python.pathlib.executor": "Run",
+    "Python.read.executor": "Run",
+    "Python.read_opt.executor": "Run",
+    "Python.reading2.executor": "Run",
+    "Python.sel.executor": "Run",
+    "Python.variable.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Python__Automation__Mastery__Automate-Boring__Tasks__Like__Pro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Deskstop_Auto">
     <configuration name="Deskstop_Auto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name=" Python_Automation_Mastery_Automate Boring_Tasks_Like_Pro" />
@@ -245,8 +223,41 @@
       <workItem from="1776373735495" duration="13016000" />
       <workItem from="1776481470397" duration="8400000" />
       <workItem from="1776601101002" duration="20000" />
-      <workItem from="1776601137758" duration="377000" />
+      <workItem from="1776601137758" duration="2458000" />
     </task>
+    <task id="LOCAL-00001" summary="Add practice scripts and exercises for Python automation learning (Udemy course)">
+      <option name="closed" value="true" />
+      <created>1776601821338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776601821338</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add practice scripts and exercises for Python automation learning (Udemy course)">
+      <option name="closed" value="true" />
+      <created>1776601930880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776601930880</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add practice scripts and exercises for Python automation learning (Udemy course)">
+      <option name="closed" value="true" />
+      <created>1776604438871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776604438871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add practice scripts and exercises for Python automation learning (Udemy course)">
+      <option name="closed" value="true" />
+      <created>1776613554306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776613554306</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +273,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add practice scripts and exercises for Python automation learning (Udemy course)&#10;version 1.0" />
+    <MESSAGE value="Add practice scripts and exercises for Python automation learning (Udemy course)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add practice scripts and exercises for Python automation learning (Udemy course)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$Deskstop_Auto.coverage" NAME="Deskstop_Auto Coverage Results" MODIFIED="1776601109442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
