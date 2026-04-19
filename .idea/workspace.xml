@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dc2f77d-018d-4d80-9108-9faac523fe4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ Python_Automation_Mastery_Automate Boring_Tasks_Like_Pro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deskstop_Auto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_path_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/append_to_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del_file_fol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_w.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line_by_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/move_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_opt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reading2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sel.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3CGbCpaQjtNkNMPLCSorvgPjx9K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Deskstop_Auto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adv_path_lib (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.append.executor&quot;: &quot;Run&quot;,
+    &quot;Python.append_to_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arith_opt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_even.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_dir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.del_file_fol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_op.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_opt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.line_by_line.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_dir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.move_copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.organize.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.pathlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_opt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Deskstop_Auto">
+    <configuration name="Deskstop_Auto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name=" Python_Automation_Mastery_Automate Boring_Tasks_Like_Pro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deskstop_Auto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="append_to_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name=" Python_Automation_Mastery_Automate Boring_Tasks_Like_Pro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/append_to_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name=" Python_Automation_Mastery_Automate Boring_Tasks_Like_Pro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="line_by_line" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name=" Python_Automation_Mastery_Automate Boring_Tasks_Like_Pro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/line_by_line.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name=" Python_Automation_Mastery_Automate Boring_Tasks_Like_Pro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Deskstop_Auto" />
+        <item itemvalue="Python.sel" />
+        <item itemvalue="Python.file_operation" />
+        <item itemvalue="Python.append_to_file" />
+        <item itemvalue="Python.line_by_line" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.26775.22" />
+        <option value="bundled-python-sdk-9f73701ac511-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.26775.22" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dc2f77d-018d-4d80-9108-9faac523fe4a" name="Changes" comment="" />
+      <created>1776014729073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776014729073</updated>
+      <workItem from="1776014739311" duration="10519000" />
+      <workItem from="1776093904077" duration="147000" />
+      <workItem from="1776094069053" duration="15357000" />
+      <workItem from="1776280134420" duration="3638000" />
+      <workItem from="1776311190404" duration="4391000" />
+      <workItem from="1776373735495" duration="13016000" />
+      <workItem from="1776481470397" duration="8400000" />
+      <workItem from="1776601101002" duration="20000" />
+      <workItem from="1776601137758" duration="377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$Deskstop_Auto.coverage" NAME="Deskstop_Auto Coverage Results" MODIFIED="1776601109442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$variable.coverage" NAME="variable Coverage Results" MODIFIED="1776065762846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$file_info.coverage" NAME="file_info Coverage Results" MODIFIED="1776140548024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$reading2.coverage" NAME="reading2 Coverage Results" MODIFIED="1776093331952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$create_dir.coverage" NAME="create_dir Coverage Results" MODIFIED="1776094601017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$append.coverage" NAME="append Coverage Results" MODIFIED="1776074732940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$arith_opt.coverage" NAME="arith_opt Coverage Results" MODIFIED="1776066653877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$pathlib.coverage" NAME="pathlib Coverage Results" MODIFIED="1776141991179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$append_to_file.coverage" NAME="append_to_file Coverage Results" MODIFIED="1776450381786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$count_even.coverage" NAME="count_even Coverage Results" MODIFIED="1776419903854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$read.coverage" NAME="read Coverage Results" MODIFIED="1776074745622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$file_operation.coverage" NAME="file_operation Coverage Results" MODIFIED="1776451114948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$read_opt.coverage" NAME="read_opt Coverage Results" MODIFIED="1776449141765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$line_by_line.coverage" NAME="line_by_line Coverage Results" MODIFIED="1776449345231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$create.coverage" NAME="create Coverage Results" MODIFIED="1776073821805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$list_dir.coverage" NAME="list_dir Coverage Results" MODIFIED="1776107346305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$adv_path_lib__1_.coverage" NAME="adv_path_lib (1) Coverage Results" MODIFIED="1776142475863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$file_opt.coverage" NAME="file_opt Coverage Results" MODIFIED="1776449137947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$functions.coverage" NAME="functions Coverage Results" MODIFIED="1776068464419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$file_op.coverage" NAME="file_op Coverage Results" MODIFIED="1776243240893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$del_file_fol.coverage" NAME="del_file_fol Coverage Results" MODIFIED="1776138038066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$check.coverage" NAME="check Coverage Results" MODIFIED="1776094675377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$loops.coverage" NAME="loops Coverage Results" MODIFIED="1776067980174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$organize.coverage" NAME="organize Coverage Results" MODIFIED="1776438640498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$move_copy.coverage" NAME="move_copy Coverage Results" MODIFIED="1776108038296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python_Automation_Mastery_Automate_Boring_Tasks_Like_Pro$sel.coverage" NAME="sel Coverage Results" MODIFIED="1776479857025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

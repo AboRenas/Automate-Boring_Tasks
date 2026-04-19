@@ -1,0 +1,6 @@
+hello, world!
+this is a sample text file.
+python makes file handling a lot easier!
+
+Tish line was appended.
+file handling is important in programming languages.
