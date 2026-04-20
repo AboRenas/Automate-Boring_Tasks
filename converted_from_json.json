@@ -1,0 +1,17 @@
+[
+    {
+        "product":"mouse",
+        "price":500,
+        "stock":60
+    },
+    {
+        "product":"mic",
+        "price":700,
+        "stock":400
+    },
+    {
+        "product":"laptop",
+        "price":2800,
+        "stock":122
+    }
+]

@@ -1,0 +1,6 @@
+Hello I am Omer, I am going to practise python
+This text is a text created with python.
+We can create as many lines as we want.
+This is the 4the line
+This is the 5the line
+This is the appended line using Python Script.
